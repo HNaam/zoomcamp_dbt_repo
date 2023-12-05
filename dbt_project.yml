@@ -45,3 +45,4 @@ seeds:
     taxi_zone_lookup:
       +column_types:
         locationid: numeric
+    fhv_bases:
